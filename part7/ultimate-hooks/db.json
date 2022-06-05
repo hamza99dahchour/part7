@@ -1,0 +1,41 @@
+{
+  "notes": [
+    {
+      "content": "custom-hooks are grat",
+      "id": 1
+    },
+    {
+      "content": "the best featrure ever <3",
+      "id": 2
+    },
+    {
+      "content": "Free Western Sahara",
+      "id": 4
+    },
+    {
+      "content": "I should return at least 72 exercices",
+      "id": 5
+    },
+    {
+      "content": "test1",
+      "id": 6
+    }
+  ],
+  "persons": [
+    {
+      "name": "youssef",
+      "number": "075616",
+      "id": 4
+    },
+    {
+      "name": "Taneli",
+      "number": "05894",
+      "id": 5
+    },
+    {
+      "name": "toto",
+      "number": "123",
+      "id": 6
+    }
+  ]
+}
